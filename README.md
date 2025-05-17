@@ -66,7 +66,3 @@ The website uses modern CSS features including:
 - Font Awesome for icons
 - Google Fonts for typography
 - Placeholder images from placeholder services
-
-
-
-        Too many current requests. Your queue position is 1. Please wait for a while or switch to other models for a smoother experience.
